@@ -12,20 +12,21 @@ Bienvenido a mi perfil de GitHub. Soy un **Desarrollador Full-Stack** apasionado
   - Automatización: Twilio, Make (antes Integromat)  
 - 🎯 **Intereses:** CRM, agentes virtuales y aplicaciones escalables.  
 - 📚 **Siempre aprendiendo:** Explorando inteligencia artificial y herramientas de automatización.  
-- 🎥 **Mi canal de YouTube:** [CodeAmigos](www.youtube.com/@codeamigos), donde comparto tutoriales y proyectos de programación.  
+- 🎥 **Mi canal de YouTube:** [CodeAmigos](https://www.youtube.com/@codeamigos), donde comparto tutoriales y proyectos de programación.  
 
 ---
 
 ## 💼 Proyectos Destacados  
-🌐 **[Reservas de Transporte](https://github.com/propiter/proyecto-reservas):**  
+🌐 **[Reservas de Transporte](https://cotizador-frontend.vercel.app):**  
 Plataforma para gestionar reservas de transporte y realizar pagos automáticos.  
 
 🔒 **[APP-SEGURA](https://github.com/propiter/app-segura):**  
 Verificador de enlaces maliciosos para una navegación segura.  
 
-👨‍💻 **[CRM para Estarter.co](https://github.com/propiter/crm-estarter):**  
+👨‍💻 **[CRM para empresa de transporte](https://crmone.vercel.app/):**  
 Sistema completo para la gestión de clientes y automatización de procesos de ventas.  
-
+usuario: admin
+clave: admin
 ---
 
 ## 📊 Estadísticas  
@@ -35,8 +36,8 @@ Sistema completo para la gestión de clientes y automatización de procesos de v
 ---
 
 ## 💬 Conéctate conmigo  
-- 🌐 **Portafolio:** [Mi Portafolio](https://tuportafolio.com)  
-- 📧 **Email:** pedro@example.com  
+- 🌐 **Portafolio:** [Mi Portafolio](https://portfolio.codeamigos.co/)  
+- 📧 **Email:** pro.pedro0413@gmail.com  
 - 🎥 **YouTube:** [CodeAmigos](https://youtube.com/@CodeAmigos)  
 - 🐦 **X (Twitter):** [@CodeAmigos](https://twitter.com/CodeAmigos)  
 - 💼 **LinkedIn:** [Pedro en LinkedIn](https://www.linkedin.com/in/pedrorodriguezortiz/)  
