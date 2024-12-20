@@ -23,7 +23,7 @@ Plataforma para gestionar reservas de transporte y realizar pagos automáticos.
 🔒 **[APP-SEGURA](https://github.com/propiter/app-segura):**  
 Verificador de enlaces maliciosos para una navegación segura.  
 
-👨‍💻 **[https://github.com/propiter/app-segura](https://crmone.vercel.app/):**  
+👨‍💻 **[CRM para reservas de transporte](https://crmone.vercel.app/):**  
 Sistema completo para gestion de clientes y automatizacion de procesos de ventas. -user/contraseña: admin/admin
 
 ---
