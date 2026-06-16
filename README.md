@@ -86,6 +86,37 @@ Contribuyo upstream a **[Chatwoot](https://github.com/chatwoot/chatwoot)** — l
 
 ---
 
+## 🧠 Skills open-source para agentes AI
+
+Herramientas que diseño para que **Claude Code / Cursor / Codex** construyan con criterio de senior — no *slop*. Instalables con un comando, Apache-2.0.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [motion-craft](https://github.com/propiter/motion-craft)
+Inteligencia de animación web para agentes: elegí la herramienta correcta (CSS → View Transitions → Motion → GSAP) y enviá motion con oficio, 60fps y accesibilidad. Trae un scanner que audita animaciones.
+<br/>
+<sub>`npx skills add propiter/motion-craft`</sub>
+<br/><br/>
+<a href="https://github.com/propiter/motion-craft"><img src="https://img.shields.io/github/stars/propiter/motion-craft?style=social" alt="motion-craft stars"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [landing-craft](https://github.com/propiter/landing-craft)
+SDD pero para landings: workflow multi-agente (estrategia → copy → diseño → build → motion → polish → SEO → review) que arma landings que **convierten y NO parecen hechas con IA**.
+<br/>
+<sub>`/plugin marketplace add propiter/landing-craft`</sub>
+<br/><br/>
+<a href="https://github.com/propiter/landing-craft"><img src="https://img.shields.io/github/stars/propiter/landing-craft?style=social" alt="landing-craft stars"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Proyectos destacados
 
 <table>
